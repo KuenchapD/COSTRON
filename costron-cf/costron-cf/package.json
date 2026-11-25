@@ -1,0 +1,6 @@
+{
+  "name": "costron-website",
+  "private": true,
+  "type": "module",
+  "description": "Costron product website for Cloudflare Pages (static site + Pages Function that emails requests)"
+}
